@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codyyjxn
+- 🔭 I’m currently working at Hack for LA as a Full Stack Software Engineer
 - 👀 I’m interested in Frontend Dev
 - 🌱 I’m currently learning React
-- Member of Hack For LA 
 - 📫 How to reach me codyyjxn
 - ⚡ Fun fact: I like to play basketball on the weekends
 
