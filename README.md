@@ -20,7 +20,6 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 
 
 
----
 
 - 👋 Hi, I’m @codyyjxn
 - 🔭 I’m currently working at Hack for LA as a Full Stack Software Engineer
