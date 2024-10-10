@@ -17,8 +17,8 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/>
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
-
 ---
+
 
 
 
@@ -29,7 +29,3 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 - 📫 How to reach me codyyjxn
 - ⚡ Fun fact: I like to play basketball on the weekends
 
-<!---
-codyyjxn/codyyjxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
