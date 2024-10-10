@@ -21,6 +21,11 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 
 
 
+
+---
+
+### About me 
+
 - 👋 Hi, I’m @codyyjxn
 - 🔭 I’m currently working at Hack for LA as a Full Stack Software Engineer
 - 👀 I’m interested in Frontend Dev
@@ -28,4 +33,4 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 - 📫 How to reach me codyyjxn
 - ⚡ Fun fact: I like to play basketball on the weekends
 
----
+
