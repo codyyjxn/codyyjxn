@@ -1,6 +1,6 @@
 # John
 
-** `Full Stack Software Developer`**
+`Full Stack Software Developer`
 
 
 Full-Stack Engineer experience in developing responsive web applications. Experienced in system architecture, performance optimization, and both front-end and back-end development. Skilled in collaborating with cross-functional teams to enhance user experiences and achieve project goals. Life long learner and real-life problem solver. 
@@ -17,9 +17,6 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/>
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
-
-#
-
 
 
 - 👋 Hi, I’m @codyyjxn
