@@ -17,7 +17,7 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/>
 <img align= "left" alt ="JS" width="30px" style= "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
-
+<br/>
 
 
 
