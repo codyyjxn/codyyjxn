@@ -22,7 +22,7 @@ Full-Stack Engineer experience in developing responsive web applications. Experi
 
 
 
----
+
 
 ### About me 
 
