@@ -5,6 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/codyyjxn/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/codyyjxn/ticket-lifecycle)
+- <b>Networking (Traffic Management/Observations)</b>
+  - [Configuring a Firewall Network Security Group](https://github.com/codyyjxn/configure-firewall)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/codyyjxn/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codyyjxn/azure-network-protocols)
