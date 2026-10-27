@@ -16,4 +16,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/jonathan-villegas-22344a302/
+[linkedin]: www.linkedin.com/in/jonathan-v-22344a302
