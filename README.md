@@ -10,13 +10,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codyyjxn/azure-network-protocols)
  
 
+
 <h2>Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/jonathan-v-22344a302">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF">
-    <img src="https://cdn.simpleicons.org/linkedin/000000" width="22" alt="LinkedIn">
-  </picture>
-</a>
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/jonathan-v-22344a302 
