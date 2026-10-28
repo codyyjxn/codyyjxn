@@ -12,8 +12,12 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://www.linkedin.com/in/yourprofile">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF">
+    <img src="https://cdn.simpleicons.org/linkedin/000000" width="22" alt="LinkedIn">
+  </picture>
+</a>
 
 
 [linkedin]: www.linkedin.com/in/jonathan-v-22344a302
