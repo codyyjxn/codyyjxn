@@ -12,7 +12,7 @@
 
 <h2>Connect with me:</h2>
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/000000)][linkedin]
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/jonathan-v-22344a302)
 
 
 [linkedin]: www.linkedin.com/in/jonathan-v-22344a302
