@@ -18,3 +18,5 @@
     <img src="https://cdn.simpleicons.org/linkedin/000000" width="22" alt="LinkedIn">
   </picture>
 </a>
+
+[linkedin]: www.linkedin.com/in/jonathan-v-22344a302 
